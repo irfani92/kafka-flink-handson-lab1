@@ -1,0 +1,8 @@
+/Users/irfan/Documents/kafka-lab/exercise1/kafka-flink/FC-KAFKA-ECOSYSTEM/demo-flink-transaction-java/src/main/java/demokafka/watermark/CustomWatermarkGenerator.java
+/Users/irfan/Documents/kafka-lab/exercise1/kafka-flink/FC-KAFKA-ECOSYSTEM/demo-flink-transaction-java/src/main/java/demokafka/model/Transaction.java
+/Users/irfan/Documents/kafka-lab/exercise1/kafka-flink/FC-KAFKA-ECOSYSTEM/demo-flink-transaction-java/src/main/java/demokafka/ETLJob.java
+/Users/irfan/Documents/kafka-lab/exercise1/kafka-flink/FC-KAFKA-ECOSYSTEM/demo-flink-transaction-java/src/main/java/demokafka/DataStreamJobBack.java
+/Users/irfan/Documents/kafka-lab/exercise1/kafka-flink/FC-KAFKA-ECOSYSTEM/demo-flink-transaction-java/src/main/java/demokafka/model/UserTransactionAggregates.java
+/Users/irfan/Documents/kafka-lab/exercise1/kafka-flink/FC-KAFKA-ECOSYSTEM/demo-flink-transaction-java/src/main/java/demokafka/OperatorDemo.java
+/Users/irfan/Documents/kafka-lab/exercise1/kafka-flink/FC-KAFKA-ECOSYSTEM/demo-flink-transaction-java/src/main/java/demokafka/DataStreamJob.java
+/Users/irfan/Documents/kafka-lab/exercise1/kafka-flink/FC-KAFKA-ECOSYSTEM/demo-flink-transaction-java/src/main/java/demokafka/model/BiggestTransactionPerCategory.java
